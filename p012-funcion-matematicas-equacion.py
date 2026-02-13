@@ -5,6 +5,7 @@
 import math as mt
 
 print("\033[H\033[J") # imprime una secuencia ansi que borra la pantalla
+
 print("Evaluar la expresion: f(x, y) =  3x² + √(x² + y²) + e^(ln(x) 😁")
 x= float(input("Dame X : "))
 y= float(input("Dame Y : "))

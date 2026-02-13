@@ -22,3 +22,22 @@ arq.oswaldo.rv@gmail.com
 - p012-funcion-matematicas-equacion.py
 - p013-funciones-matematicas-precios.py
 - p014-funciones-trigonometricas.py
+
+# Tarea 1
+p015
+p016
+p017
+p018
+p019
+p020
+p021
+p022
+
+## Actividad 5
+- p023-verificar-numero.py
+- p024-verificar-numero-v2.py
+- p025-verificar-suma.py
+- p026-convertir-temperaturas-v2.py
+- p027-calcular-paga-extra-v2.py
+- p028-retira-cuenta.py
+- p029-calculadora-descuentos.py
