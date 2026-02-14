@@ -24,14 +24,14 @@ arq.oswaldo.rv@gmail.com
 - p014-funciones-trigonometricas.py
 
 # Tarea 1
-p015
-p016
-p017
-p018
-p019
-p020
-p021
-p022
+- p015-hipotenusa-triangulo.py
+- p016-tercer-angulo.py
+- p017-convertir-temperatura.py
+- p018-area-volumen-cilindro.py
+- p019-calculo-tiempo.py
+- p020-numero-suerte.py
+- p021-distancia-entre-puntos.py
+- p022-resistencia-equivalente-paralelo.py
 
 ## Actividad 5
 - p023-verificar-numero.py
