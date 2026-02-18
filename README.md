@@ -41,3 +41,11 @@ arq.oswaldo.rv@gmail.com
 - p027-calcular-paga-extra-v2.py
 - p028-retira-cuenta.py
 - p029-calculadora-descuentos.py
+
+## Actividad 6
+- p030-verifica-suma.py
+- p031-2da-ley-de-newton.py
+- p032-aceptar-estudiante.py
+- p033-aceptar-estudiante-v2.py
+- p034-tipo-angulo.py
+- p035-tipo-triangulo.py
