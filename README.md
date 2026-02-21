@@ -58,7 +58,7 @@ arq.oswaldo.rv@gmail.com
 - p040-calculo-notas.py
 - p041-aceptar-estudiante-v2
 - p042-precio-entrada-cine.py
-- p043-calculadora-anio-bisiesto.py
+- p043-calculadora-año-bisiesto.py
 
 ## Actividad 7
 - p044-conteo-ascendente.py
