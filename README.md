@@ -89,3 +89,6 @@ arq.oswaldo.rv@gmail.com
 
 ## Actividad 9
 - p065-repaso-primer-parcial.py
+
+## Primer Examen Parcial
+- p066-primer-parcial.py
