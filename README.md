@@ -103,3 +103,26 @@ arq.oswaldo.rv@gmail.com
 - p073-suma-promedio-numeros.py
 - p074-suma-mutiplos.py
 - p075-cifrado-cesar.py
+
+## Actividad 11
+- p076-tablas-todas.py
+- p077-triangulo-caracter.py
+- p078-piramide-caracter.py
+- p079-factorial-numeros.py
+- p080-combina-colores.py
+- p081-suma-potencias.py
+
+## Tarea 4
+- p082-compara-rendimiento-inversion.py
+- p083-plan-ahorro-depistos-mensuales.py
+- p084-cuadro-hueco-caracter.py
+- p085-rombo-caracter.py
+- p086-triangulo-invertido-numeros.py
+
+## Actividad 13
+- p087-acceder-lista.py
+- p088-modificar-lista.py
+- p089-agregar-lista.py
+- p090-eliminar-lista.py
+- p091-iterar-lista.py
+- p092-lista-de-gastos.py
