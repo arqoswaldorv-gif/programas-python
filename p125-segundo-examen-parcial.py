@@ -62,7 +62,7 @@ print(vuelos)
 print(('\n--- Tabla de Datos ---'))
 print(' No. Vuelo \t| Origen \t\t| Destino \t| Aerolínea \t| Pasajeros \t| Tarifa ')
 for vuelo in vuelos:
-    print(f'{vuelo['numero_vuelo']} \t\t| {vuelo['origen']} \t\t| {vuelo['destino']} \t| {vuelo['aerolinea']} \t| {vuelo['pasajeros']} \t\t| {vuelo['tarifa']:,.2f} ')
+    print(f"{vuelo['numero_vuelo']} \t\t| {vuelo['origen']} \t\t| {vuelo['destino']} \t| {vuelo['aerolinea']} \t| {vuelo['pasajeros']} \t\t| {vuelo['tarifa']:,.2f} ")
 
 # --- 3. Resumen del Registro ---
 print('\n--- RESUMEN ---')
@@ -83,7 +83,7 @@ for vuelo in vuelos:
 print('\nAerolíneas: ')
 # Iteramos sobre los valores del diccionario para acceder a cada aerolínea
 for aerolinea in aerolineas.values():
-    print(f'- {aerolinea['nombre']}: {aerolinea['cantidad']}')
+    print(f"- {aerolinea['nombre']}: {aerolinea['cantidad']}")
 
 # --- 3.2. Contador de Destinos ---
 # Contamos cuántos vuelos hay por cada ciudad de destino
@@ -99,7 +99,7 @@ for vuelo in vuelos:
 print('\nDestinos: ')
 # Iteramos sobre los valores del diccionario para acceder a cada destino
 for destino in destinos.values():
-    print(f'- {destino['nombre']}: {destino['cantidad']}')
+    print(f"- {destino['nombre']}: {destino['cantidad']}")
 
 suma_pasajeros = sum(v['pasajeros'] for v in vuelos)
 promedio_pasajeros = suma_pasajeros / len(vuelos) if len(vuelos) > 0 else 0
