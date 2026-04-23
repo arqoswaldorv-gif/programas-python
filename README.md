@@ -172,3 +172,6 @@ arq.oswaldo.rv@gmail.com
 ## Tarea 7 - Conjuntos
 - p123-conjunto-personas.py
 - p124-conjunt-numeros.py
+
+## Examen Segundo Parcial
+- p125-segundo-examen-parcial.py
