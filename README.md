@@ -217,3 +217,6 @@ arq.oswaldo.rv@gmail.com
 - p157-empleado2.py
 - p158-circulo.py
 - p159-rectangulo.py
+
+## Actividad 20
+- p160-ventas.py
