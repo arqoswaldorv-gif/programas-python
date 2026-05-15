@@ -220,3 +220,6 @@ arq.oswaldo.rv@gmail.com
 
 ## Actividad 20
 - p160-ventas.py
+
+## Tarea 9
+- p161-control-libros.py
